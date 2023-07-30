@@ -5,12 +5,19 @@
  Our project aims to develop an automated food ordering system for college
 canteens. The system aims to improve efficiency, save time, and address
 various challenges associated with the current canteen system.
+
 Revolutionize college canteens with an automated food ordering system
 to overcome inefficiencies, enhance food hygiene, ensure accurate
 ingredient preparation, and streamline financial management.
+
 The key objectives of the project include:
+
 · Enhancing Efficiency
+
 · Improving Food Hygiene
+
 · Accurate Food Data and Ingredient Preparation
+
 · Financial Management
+
 · Enhancing User Experience
