@@ -21,3 +21,10 @@ The key objectives of the project include:
 · Financial Management
 
 · Enhancing User Experience
+
+
+TO VIEW OUR TEAMWORK - 
+
+1.https://www.figma.com/file/Ne1DOCUwYdJvwmPHqSP0S5/QUICKAAHAR_USERPERSONA?type=whiteboard&node-id=0-1&t=nxlxBuwS0RdomiSA-0
+
+2.https://www.figma.com/file/IK15I3eVKpdmtLyp7fRoJ6/APP_INTERFACE?type=design&t=nxlxBuwS0RdomiSA-0
